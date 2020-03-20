@@ -4,8 +4,6 @@ def snake_it_up(string)
   ten_s=10.times do "s" 
   ten_s+string
   binding.pry
-  else
-  return string
   end
   
 end

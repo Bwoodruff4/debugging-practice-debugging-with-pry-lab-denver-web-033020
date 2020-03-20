@@ -1,7 +1,7 @@
 require 'pry'
 
 def start_game(player1, player2)
-  #binding.pry
+  binding.pry
   return "Hello #{player1} & #{playar2}"
 end
 
